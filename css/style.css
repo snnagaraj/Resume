@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+}
+.header{
+    background-color: #1283ED;
+    height: 250px;
+}
+.header-flex{
+    text-align: center;
+    padding-top: 50px;
+}
+.header-flex h1{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+.header-flex h2{
+    font-size: 25px;
+    color: white;
+    padding-top: 10px;
+}
+.header-flex h3{
+    padding-top: 10px;
+    color: white;
+}
+
+
+
+
+
+/* about */
+
+.about-flex{
+    padding-left: 20px;
+}
+.content1 h1{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.content2 h1{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+
+
+
+/* study */
+
+.study-flex{
+    padding-left: 20px;
+}
+.study-flex h1{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 1200px;
+    height: 200px;
+}
+th,td{
+    border: solid 2px black;
+    text-align: center;
+}
+
+
+/* skil */
+
+.skil-flex{
+    padding-left: 20px;
+}
+.skil-flex h1{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.skil-flex p i{
+    font-size: 20px;
+    padding-right: 10px;
+}
+.skil-flex p{
+    font-size: 20px;
+    padding-bottom: 5px;
+}
